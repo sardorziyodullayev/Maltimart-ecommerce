@@ -54,6 +54,7 @@
 .cart__icon,
 .fav__icon {
 	position: relative;
+	cursor: pointer;
 }
 
 .badge {
